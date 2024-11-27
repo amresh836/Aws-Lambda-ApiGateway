@@ -1,0 +1,4 @@
+account_id:
+lambdas_alias_name: dev
+logs_expiration: 30
+region: eu-central-1
